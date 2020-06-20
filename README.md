@@ -11,4 +11,5 @@ Steps deployed:
 
 Final Results:
 Model 1 - Random Forest - Score (Accuracy before vs Accuracy after) : 0.9815 0.9833
+
 Model 2 - KNN - Score (before vs after) : 0.7037 0.7251
